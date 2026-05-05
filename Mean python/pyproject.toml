@@ -1,5 +1,5 @@
 [project]
-name = "python-second"
+name = "mean-python"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -11,9 +11,4 @@ dependencies = [
     "notebook>=7.5.5",
     "numpy>=2.4.3",
     "pandas>=3.0.1",
-]
-
-[tool.uv.workspace]
-members = [
-    "Mean python",
 ]
